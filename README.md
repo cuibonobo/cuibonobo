@@ -1,0 +1,9 @@
+- 💻 Software engineer
+- 🎨 Artist
+- 📢 Organizer
+- 🇵🇷 Boricua
+- ↪️ Elsewhere:
+  - 🌐 [Personal site](https://cuibonobo.com)
+  - 🐘 [Mastodon](https://mastodon.social/@cuibonobo)
+  - 🐦 [Twitter](https://twitter.com/cuibonobo)
+  - 📷 [Instagram](https://www.instagram.com/cuibonobo/)
