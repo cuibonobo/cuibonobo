@@ -4,5 +4,4 @@
 - 🇵🇷 Boricua
 - ↪️ Elsewhere:
   - 🌐 [Personal site](https://cuibonobo.com)
-  - 🐘 [Mastodon](https://mastodon.social/@cuibonobo)
   - 📷 [Instagram](https://www.instagram.com/cuibonobo/)
